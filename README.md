@@ -1,5 +1,6 @@
 Determination of the multiple crack parameters in self-healing process of asphalt mixture based on the contactless nonlinear ultrasonic
-The Second harmonic generation (SHG) technique, which belongs to one of the nonlinear ultrasonic techniques (NUTs), 
+
+Second harmonic generation (SHG) technique, which belongs to one of the nonlinear ultrasonic techniques (NUTs), 
 is widely recognized for its high sensitivity in detecting material damage across various fields. However, 
 accurately determining multiple critical crack parameters in materials remains a complex challenge that cannot be resolved by relying solely 
 on a single nonlinear parameter. In this study, SHG technique and Bidirectional Long Short-Term Memory (SHG-BLSTM) is 
