@@ -1,5 +1,7 @@
 In situ air-coupled nonlinear ultrasonic technique for determining multiple parameters of cracks during self-healing process in asphalt mixture
+
 Long Lia*, Wentao Zhangb 
+
 a State Key Laboratory of Green Building Materials, China Building Materials Academy, Guanzhuangdongli 1, Chaoyang District, Beijing 100024, China, Email: lilongbhu@buaa.edu.cn
 
 b School of Transportation Science and Engineering, Beihang University, Xueyuan Road 37, Haidian District, Beijing 100191, China, Email: wentaozhang@buaa.edu.cn
